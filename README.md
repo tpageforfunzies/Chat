@@ -1,1 +1,1 @@
-"# Chat" 
+This was a project I used to teach myself some basic PHP syntax and built-in methods.  Future plans include a database schema that will allow persistent user profiles as well as multiple chat rooms and p2p messaging.
